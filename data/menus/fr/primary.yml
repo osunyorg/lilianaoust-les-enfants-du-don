@@ -1,24 +1,12 @@
 ---
 title: Menu principal
 items:
-- title: Oeuvres
-  target: "/oeuvres/"
-  kind: page
-  children: []
-- title: Projets
-  target: "/projets/"
-  kind: page
-  children: []
-- title: Équipe
-  target: "/equipe/"
-  kind: page
-  children: []
-- title: Organisations
-  target: "/organisations/"
-  kind: page
-  children: []
 - title: Exposition
   target: "/exposition/"
+  kind: page
+  children: []
+- title: Portraits
+  target: "/portraits/"
   kind: page
   children: []
 
