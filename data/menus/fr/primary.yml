@@ -25,4 +25,36 @@ items:
     target: "/portraits/melanie/"
     kind: page
     children: []
+  - title: Clément
+    target: "/portraits/clement/"
+    kind: page
+    children: []
+  - title: Frédéric
+    target: "/portraits/frederic/"
+    kind: page
+    children: []
+  - title: Yseult
+    target: "/portraits/yseult/"
+    kind: page
+    children: []
+  - title: Pauline et Mathis
+    target: "/portraits/pauline-et-mathis/"
+    kind: page
+    children: []
+  - title: Matthieu
+    target: "/portraits/matthieu/"
+    kind: page
+    children: []
+  - title: Marie
+    target: "/portraits/marie/"
+    kind: page
+    children: []
+  - title: Lylian
+    target: "/portraits/lylian/"
+    kind: page
+    children: []
+  - title: Camille
+    target: "/portraits/camille/"
+    kind: page
+    children: []
 
