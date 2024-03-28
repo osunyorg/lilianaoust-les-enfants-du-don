@@ -1,6 +1,10 @@
 ---
 title: Menu principal
 items:
+- title: Oeuvres
+  target: "/oeuvres/"
+  kind: page
+  children: []
 - title: Projets
   target: "/projets/"
   kind: page
@@ -11,10 +15,6 @@ items:
   children: []
 - title: Organisations
   target: "/organisations/"
-  kind: page
-  children: []
-- title: Oeuvres
-  target: "/oeuvres/"
   kind: page
   children: []
 
