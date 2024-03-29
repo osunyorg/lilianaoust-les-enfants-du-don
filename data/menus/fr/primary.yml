@@ -53,4 +53,8 @@ items:
     target: "/portraits/lylian/"
     kind: page
     children: []
+  - title: Camille
+    target: "/portraits/camille/"
+    kind: page
+    children: []
 
