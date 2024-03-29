@@ -37,4 +37,8 @@ items:
     target: "/portraits/pauline-et-mathis/"
     kind: page
     children: []
+  - title: Matthieu
+    target: "/portraits/matthieu/"
+    kind: page
+    children: []
 
