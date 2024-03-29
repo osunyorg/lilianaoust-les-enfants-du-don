@@ -45,4 +45,8 @@ items:
     target: "/portraits/marie/"
     kind: page
     children: []
+  - title: Mélanie
+    target: "/portraits/melanie/"
+    kind: page
+    children: []
 
