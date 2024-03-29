@@ -29,4 +29,8 @@ items:
     target: "/portraits/frederic/"
     kind: page
     children: []
+  - title: Yseult
+    target: "/portraits/yseult/"
+    kind: page
+    children: []
 
