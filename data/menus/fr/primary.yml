@@ -1,7 +1,7 @@
 ---
 title: Menu principal
 items:
-- title: Les enfants du don
+- title: Accueil
   target: "/"
   kind: page
   children: []
