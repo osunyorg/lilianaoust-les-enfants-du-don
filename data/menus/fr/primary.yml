@@ -41,4 +41,8 @@ items:
     target: "/portraits/matthieu/"
     kind: page
     children: []
+  - title: Marie
+    target: "/portraits/marie/"
+    kind: page
+    children: []
 
