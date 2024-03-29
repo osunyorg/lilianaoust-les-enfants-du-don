@@ -33,4 +33,8 @@ items:
     target: "/portraits/yseult/"
     kind: page
     children: []
+  - title: Pauline et Mathis
+    target: "/portraits/pauline-et-mathis/"
+    kind: page
+    children: []
 
