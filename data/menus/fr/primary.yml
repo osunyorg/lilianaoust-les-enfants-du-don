@@ -13,4 +13,8 @@ items:
     target: "/portraits/julie/"
     kind: page
     children: []
+  - title: Alexandre
+    target: "/portraits/alexandre/"
+    kind: page
+    children: []
 
