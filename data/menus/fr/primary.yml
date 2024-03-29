@@ -8,5 +8,9 @@ items:
 - title: Portraits
   target: "/portraits/"
   kind: page
-  children: []
+  children:
+  - title: Julie
+    target: "/portraits/julie/"
+    kind: page
+    children: []
 
