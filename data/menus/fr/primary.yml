@@ -25,8 +25,4 @@ items:
     target: "/portraits/clement/"
     kind: page
     children: []
-  - title: Clément
-    target: "/portraits/frederic/"
-    kind: page
-    children: []
 
