@@ -21,4 +21,8 @@ items:
     target: "/portraits/vincent/"
     kind: page
     children: []
+  - title: Clément
+    target: "/portraits/clement/"
+    kind: page
+    children: []
 
