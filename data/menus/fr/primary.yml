@@ -17,4 +17,8 @@ items:
     target: "/portraits/alexandre/"
     kind: page
     children: []
+  - title: Vincent
+    target: "/portraits/vincent/"
+    kind: page
+    children: []
 
