@@ -5,4 +5,8 @@ items:
   target: "/exposition/"
   kind: page
   children: []
+- title: Portraits
+  target: "/portraits/"
+  kind: page
+  children: []
 
