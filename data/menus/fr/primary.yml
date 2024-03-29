@@ -49,4 +49,8 @@ items:
     target: "/portraits/melanie/"
     kind: page
     children: []
+  - title: Lylian
+    target: "/portraits/lylian/"
+    kind: page
+    children: []
 
