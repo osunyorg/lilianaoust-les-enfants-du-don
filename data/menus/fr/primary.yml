@@ -5,15 +5,18 @@ items:
   target: "/"
   kind: page
   children: []
+  path: "/"
   file: content/fr/_index.html
 - title: Exposition
   target: "/exposition/"
   kind: page
   children: []
+  path: "/pages/exposition"
   file: content/fr/pages/exposition/_index.html
 - title: Portraits
   target: "/portraits/"
   kind: page
   children: []
+  path: "/projects"
   file: content/fr/projects/_index.html
 
