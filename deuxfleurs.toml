@@ -13,3 +13,28 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/projets/2020--pauline-mathis/"
+to = "/portraits/2020-pauline-mathis/"
+
+[[redirects]]
+from = "/portraits/2022-pauline-mathis/"
+to = "/portraits/2020-pauline-mathis/"
+
+[[redirects]]
+from = "/projets/"
+to = "/portraits/"
+
+[[redirects]]
+from = "/julie/"
+to = "/portraits/julie/"
+
+[[redirects]]
+from = "/projets/2023-yseult/"
+to = "/portraits/2023-yseult/"
+
+[[redirects]]
+from = "/projets/2020-pauline-mathis/"
+to = "/portraits/2020-pauline-mathis/"
+
